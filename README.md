@@ -1,4 +1,4 @@
-## :idea: Technologies
+## :bell: Technologies
 
 This project was based on a hackaton theme to solve an information security problem. With this we created a validation prior to the payment process to identify the person who is buying the product with facial recognition. The pitch of the business you can see here 
 
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 - [Laravel](https://laravel.com/)
 - [Package aws-sdk-php](https://github.com/aws/aws-sdk-php)
-- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code][vscode] with [EditorConfig][vceditconfig]
 
 ## :memo: License
 
@@ -46,3 +46,4 @@ Made with ♥ by Fabio Farias :wave: [Get in touch!](https://linkedin.com/in/fab
 [vscode]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[icons]: https://gist.github.com/rxaviers/7360908
