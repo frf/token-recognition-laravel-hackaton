@@ -1,11 +1,12 @@
-<h4 align="center">
-   This project was based on a hackaton theme to solve an information security problem. With this we created a validation prior to the payment process to identify the person who is buying the product with facial recognition. The pitch of the business you can see here 
+## :idea: Technologies
 
-   [youtube]: https://www.youtube.com/watch?v=8ivHBElRf5g&feature=youtu.be
+This project was based on a hackaton theme to solve an information security problem. With this we created a validation prior to the payment process to identify the person who is buying the product with facial recognition. The pitch of the business you can see here 
+
+[youtube]: https://www.youtube.com/watch?v=8ivHBElRf5g&feature=youtu.be
 
 
-   Using Laravel we can use the Inversion of Control and Dependency Injection patterns that facilitate maintenance and code writing following standards.
-</h1>
+Using Laravel we can use the Inversion of Control and Dependency Injection patterns that facilitate maintenance and code writing following standards.
+
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/frf/token-recognition-laravel-hackaton.svg">
