@@ -1,4 +1,4 @@
-## :bell: Technologies
+## :bell: Details
 
 This project was based on a hackaton theme to solve an information security problem. With this we created a validation prior to the payment process to identify the person who is buying the product with facial recognition. The pitch of the business you can see here 
 
